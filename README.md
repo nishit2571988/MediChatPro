@@ -1,5 +1,5 @@
 
-🩺 MediChat Pro
+## 🩺 MediChat Pro
 
 
 **MediChat Pro** is an intelligent medical document assistant built with Streamlit.
