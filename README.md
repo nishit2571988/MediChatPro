@@ -55,6 +55,7 @@ The application uses a Retrieval-Augmented Generation (RAG) pipeline to retrieve
 
 - App: MediChat Pro – Live Demo Experience the demo in action: https://medichatpro-app.streamlit.app/
 - See how MediChat Pro makes medical document analysis effortless.
+![image_alt](https://github.com/nishit2571988/MediChatPro/blob/13896b853c8b9556125ae8d9e8e814742e3ab4e1/Demo%20-%20MediChat%20Pro.jpg)
 
 ---
 ## 👨‍💻 Developer
